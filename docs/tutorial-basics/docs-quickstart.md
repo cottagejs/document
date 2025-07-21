@@ -25,7 +25,7 @@ title: Quick Start
 ## Directory Structure
 - `cottage.config.js`: Main configuration file
 - `server.js`: Node.js server entry
-- `webpack.config.js`: Build configuration
+- `vite.config.js`: Vite build configuration
 - `src/app.js`: Application main entry
 - `src/components/`: Custom components directory
 - `src/pages/`: Pages directory, supports content-driven rendering

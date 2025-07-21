@@ -14,5 +14,7 @@ Cottage.js is a content-driven, component-based Node.js framework for modern web
 - Static & dynamic hybrid rendering for high-performance pages
 - Plugin system for easy framework extension
 - Configuration-driven, main config entry: `cottage.config.js`
-- Supports multiple build tools (default Webpack, Turbopack planned)
+- Vite build support for fast development experience
+- Native support for `.tsx`, `.jsx`, `.vue` files, no extra configuration required
 - Lightweight, no forced frontend framework dependency, easy integration
+- Future: Turbopack planned
